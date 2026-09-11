@@ -34,7 +34,7 @@ Key columns used across the queries:
 | 9 | Total booking value of successful rides | `Total_Bookings_Ride_Successfully` |
 | 10 | Incomplete rides and their reasons | `Incomplete_Rides_Reason` |
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Database:** MySQL
 - **Concepts used:** Views, Aggregate functions (`AVG`, `SUM`, `COUNT`, `MAX`, `MIN`), `GROUP BY`, `ORDER BY`, `LIMIT`, filtering with `WHERE`
@@ -65,5 +65,7 @@ Key columns used across the queries:
 - Adoption of digital payment methods like UPI
 
 ## Author
-Ramya Peetala | GitHub: https://github.com/RamyaPeethala LinkedIn: https://www.linkedin.com/in/ramya-peethala/
+Ramya Peetala 
+GitHub: https://github.com/RamyaPeethala 
+LinkedIn: https://www.linkedin.com/in/ramya-peethala/
 Feel free to fork this repo, explore the queries, and extend them with your own business questions!
